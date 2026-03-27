@@ -37,3 +37,24 @@ Background: sintaxis -Background(v1,v2,v3,[a]); : v1,v2,v3 son los valores de RG
 El background sirve para designar el color de nuestro lienzo
 
 4to parametro es el [a] es eñ canal alpha, si es que yo quiero que mi color sea transparente o semi transparente
+
+Para dibujar eb p5, hay que entender que el canvas funciona con un sistema de coordenadas como un plano cartesiano, pero el punto 0,0 no está en el centro, está en la esquina superior izquierda
+el primer valor siempre sera x y la y la segunda, 
+
+Figuras geometricas 2D 
+todas las figuras en p5 tienen un borde y un fill, entonces se debe poner un color para el borde y el fill
+
+STROKE:
+sintaxis : stroke(v1,v2,v3, [alpha]); 
+Establece el color que se utiliza para dibujar puntos, lineas
+
+Tamaño del borde
+strokeWeigth 
+
+Linea: se dibuja una linea desde el punto inicial hasta un punto final. Line(x1,y1,x2,y2)
+si uno quiere cambiarle el ancho o color de una figura, el stroke y strokeweight debe ir antes de la figura
+
+Rectangulo: sintaxis; rect
+
+RELLENO DE COLOR 
+Sintraxis: fill(v1,v2,v3, [alpha]) : debe estar arriba de la figura para colorear
