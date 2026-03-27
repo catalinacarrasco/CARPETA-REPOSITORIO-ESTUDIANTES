@@ -200,3 +200,41 @@ Checkbox:
 * Prioriza la accesibilidad, la inclusión, la comunidad y la alegría.
 * Hace que dibujar con código sea tan intuitivo como dibujar en un cuaderno.
 * Admite obras audiovisuales, interactivas y experimentales para la web.
+
+# Clase 02: P5js:
+
+**Algoritmo:**
+
+* secuencia de intrucciones paso a paso
+* Logicas, definidas, ordenadas y finitas que permitan solucionar un problema o realizar una tarea.
+
+  * **Características:**
+  * Precisión: Cada paso debe estar clarisimo
+  * Orden: LOs pasos llevan una secuencia logica
+  * Finitud: Si sigues el mismo algoritmo dos veces con los mismo datos, deberias obtener siempre el mismo resultado
+
+ **Estructura:**
+
+1. Imput (entrada): la informacion olos ingredientes que necesitas opara empezar
+2. Proceso: Los pasos Lógicos que transforman esa entrada:
+3. Output(Salida): El resultado final o la solución al problema.
+
+**Diagrama de flujo**
+
+* Representación grafica de un algoritmos o de los pasos de un proceso 
+* se utiliza como una herramienta de planificación para visualizar la logica de un programa antes de escribir una sola linea de de codigo.
+* se utilizas componentes estandar (simbología)
+
+**Lenguaje de programación:**
+* Proposito General: Python, Java, C++, C#
+* Desarrollo Web: JavaScript, TypeScript; PHP, Ruby
+* sistema y bajo nivel: C, Rust, Go
+* Analisis de datos: R, Python, Julia
+* Movil: Swift (iOS), Kotlin (android)
+
+**Funciones maestras:**
+* Setup: Se ejecuta una sola vez al principio (para crear el lienzo)
+  * **su proposito:** Configurar el entorno inicial.
+* Draw (){: Se ejecuta en un bucle infinito, lo que permite crear animaciones.
+  * **Proposito:** Crear movimiento y responder a la interacción en tiempo real.
+
