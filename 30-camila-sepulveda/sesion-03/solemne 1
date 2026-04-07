@@ -44,8 +44,29 @@ ladeada. La solución fue en un comienzo buscar por internet, no encontre result
 presentó una solución. 
 
 
+### Codificación: 
 
-### Resultado 
+la investigación realizada para conocer el siginifica de cada termino, resulto en los valores principales que son **X** como coordenada del eje X en 
+posición de ubicación, caracterizada por su horizontalidad, la **Y** como segundo punto principal de una posicion, donde caracteriza por su verticalidad. 
+
+el termino **W** representa el ancho de una figura, que esta presente en el arco, al igual que el termino **H** representando la altura de la figura. 
+Otro termino utilizado fue el **strart** y **stop**, representando el comienzo y termino del ángulo de un arco.
+
+**fill** es el color de relleno  dentro de las figuras, si se quiere cambiar de color, se debe volver a aplicar sobre la figura que quiere ser modificada.
+el color se emplea a traves del codigo de color **RGB**. 
+
+**strokeCap** define la terminación de la linea, en mi caso utilice la **SQUARE**. 
+
+**stroke** define el color que es para las lineas, puntos o contornos de figuras, que va acompañado de **strokeWeigth**, que define el tamaño de un 
+contorno de la figura, de un punto o linea. En cambio el **NoStroke** se utiliza para eliminar el borde dentro de 
+una figura. 
+
+
+
+Para este proyecto 
+
+
+### Resultado:
 
 Con sinceridad quede muy satisfecha y contenta con mi resultado en **p5.js**, ya que en un comienzo no entendia nada y estaba con un cierto temor, pero una 
 vez ya entendi la logicá de cada termino, fue todo mas rapido, productivo y para ser la primera vez conociendo una herramienta de estas caracteristicas, 
