@@ -55,5 +55,19 @@ Al declarar las variables con el comando **Random** se puede utilizar como valor
 ### Posibilidad de viajes, mejoras y aprovechamiento de ayuda  
 Ayuda de traducciones, ayuda, trabajo y posibilidad de becas 0:
 
+## Sketch redimensionables  
+createCanvas(windowWidth,windowHeight);
+
+## map(); Fuction
+
+Esta función nos permite convertir un valor de un rango a otro.
+En términos simples: toma un número que está en una *escala* y lo traduce a una *escala* nueva
+
+map(valor,min_original,max_original,min_nuevo,max_nuevo)
+
+-> valor: variable que quieres mapear (por ejemplo, mouseX).
+-> min_original y max_original: rango que se encuentra en ese valor actualmente
+-> min_nuevo y max_nuevo: rango de lo que quieras transformar
+
 
 
