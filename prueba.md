@@ -1,3 +1,3 @@
 
 
-##clase viernes 10 , solemne 1 
+## clase viernes 10 , solemne 1 
