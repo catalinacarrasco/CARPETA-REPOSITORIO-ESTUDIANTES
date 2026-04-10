@@ -1,0 +1,19 @@
+# Solemne 01  
+Para mi proyecto elegi al artista abstracto Robert Motherwell, pintor estadounisdense del expresionismo abstracto. Sus pinturas se caracterizaban por el uso del color negro cubriendo gran parte de su liezo con machas gigantes.  
+Quise plasmar esas mismas manchas en la pantalla, que abarcarán gran espacio en el lienzo y sin tenerle miedo al uso del color negro por lo que me inspire en algunas de sus obras para conseguirlo.
+### Inspos:  
+![Inspo1](https://uploads8.wikiart.org/images/robert-motherwell/mallarme-s-swan-1944.jpg!PinterestSmall.jpg)  
+![Inspo2](https://www.caviar20.com/cdn/shop/files/Caviar20_Robert-Motherwell-Seaside-Studio-1990_02_800x.jpg?v=1695127125)  
+![Inspo3](https://www.singulart.com/blog/wp-content/uploads/2024/03/Elegy-to-the-Spanish-Republic-1.jpg)  
+![Inspo4](https://commonreader.wustl.edu/app/uploads/2024/02/MotherwellCatalonia-rotated.jpeg)  
+
+## Proceso  
+  **Contrucción en papel**  
+Jaja la verdad es que me había confundido con el tipo de papel y en vez de trabajar con papel milimetrado lo hice con papel cuadriculado lol hací que trabaje mi lienzo en un cuadrado de 25x25, fue un proceso rapido puesto que no utilicé colores ya que lo tenía pensado para cuando trabajara con P5js y aparte en la obra en la que me inspiré solo se usaba un color y negro; al momento de presentarlo en clases me dijerón que le agregue más color, así que eso haré jeje.  
+  **Contrucción en P5js**  
+La verdad no se me complicó demasiado el uso de P5js puesto que ya había estado familiarizado con el uso de leguaje de progrmación (no lo suficiente) y claro, casi todo se trata de lógica y saber posicionarte bien en las coordenas. Eso siii, como mi liezo inicial era de 25x25 tuve que hacer el trabajo de escalas y eso se me complicó en un inicio ya que soy malo con las matemáticas, hice algunas marcas en el lienzo para que me ayudarán a posicionarme en plano cartesiano, con ayuda de la calculadora me posicione en las coordenas adecuadas en al p5js y trabaje de manera rapida.  
+Me acostumbraba de a poco y en algunos casos deje de usar la calculadora para usar la lógica, en algunos casos me confundía con los números y los ponía al revés. Otro incomveniente es que se me olvidaba guardar el trabajo jaja (Como ahora mientras escribo esto) o_0.  
+
+## Resultado  
+
+
