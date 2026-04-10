@@ -4,6 +4,8 @@
 Me gustaría seguir experimentando en p5.js de una forma guiada pero libre a la vez, como no con tanto propósito, sino solo para averiguar qué es lo que puedo llegar a hacer sin sentir tanta presión, pero obvio que no quiero decir que no quiera hacer los trabajos jajaj, espero se entienda.  
 ![Work in Progress]![WORK IN PROGRESS SOFIA DIAZ](https://github.com/user-attachments/assets/c3d5011c-363c-4af0-a9be-62cd5cd9f674)
 
-![Foto Dibujo]
+![Foto Dibujo]![IMG_7296](https://github.com/user-attachments/assets/3a43dca8-0d27-41b7-840f-a5c7a96dd259)
+
+
 
 ***Link dibujo p5.js***: https://editor.p5js.org/sofiaaadiaz/sketches/1HDLRHw7  
