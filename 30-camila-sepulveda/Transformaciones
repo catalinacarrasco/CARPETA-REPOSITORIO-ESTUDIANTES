@@ -39,5 +39,5 @@ if, else if, else:
 
 sentencia if, toma una condicion expresada como booleano, y ejecuta una accion de codigos dentro de llaves. 
 
-if(condicion){ejecuta este codigo si es true}. 
+if(condicion){ejecuta este codigo si es true}. entre las llaves es poner lo que quiere que el progama ponga en el archivo, por ejemplo el fondo rojo y un circulo. 
 
