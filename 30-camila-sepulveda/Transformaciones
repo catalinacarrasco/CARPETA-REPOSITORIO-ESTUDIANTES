@@ -35,3 +35,7 @@ Tenemos operandos son datos basicos que se evaluan variables como x o y , mouseX
 
 Operadores de comparación: permite contraste de dos valores. ==(igual a), !=(diferente de), <o>(mayor o menor que), <=o>=(mayor o igual/ menor o igual). 
 
+if, else if, else: 
+
+sentencia if, toma una condicion expresada como booleano, y ejecuta una ccion de coidgos dentro de llaves. 
+
