@@ -37,5 +37,5 @@ Operadores de comparación: permite contraste de dos valores. ==(igual a), !=(di
 
 if, else if, else: 
 
-sentencia if, toma una condicion expresada como booleano, y ejecuta una ccion de coidgos dentro de llaves. 
+sentencia if, toma una condicion expresada como booleano, y ejecuta una accion de codigos dentro de llaves. 
 
