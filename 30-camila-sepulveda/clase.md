@@ -31,3 +31,16 @@ Interacción discreta: evento especifico, es un interruptor de encendido y apaga
 
 interacción continua: cuabdo un sistema reacciona constanrtemente un movimiento 
 
+# Funciones propias: 
+
+crear nuestras propias funciones, para dar modularidad al codigo, para desglosar de mas a menos, puedo mencionar esa función como carpeta, que haga elementos con esa funcion a traves de capas con elementos especificos que cumplan cierta acción. 
+
+function nombre de la funcion(){ // va debajo del draw. ej: function Dibujarfiguras() { 
+stroke
+fill
+etc
+}
+
+
+reusabilidad: 
+
