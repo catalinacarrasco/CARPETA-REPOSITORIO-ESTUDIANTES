@@ -1,6 +1,4 @@
-# sesión 06 - 17/04   
-
-
+# Apuntes Sesión 17-04  
 # Transformaciones y condicionales
 ## Variables dinámicas nuevas ;o  
 
@@ -58,4 +56,3 @@ else{ejecuta este código si ambas condiciones son falsas}
 
 * Esto sirve para generar acciones condicionales, ejemplos programar botones o acciones de uso :)
       
-

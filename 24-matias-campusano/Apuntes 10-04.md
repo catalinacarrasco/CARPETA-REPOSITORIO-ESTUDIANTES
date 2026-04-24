@@ -1,4 +1,3 @@
-# sesión 04 - 10/04
 # Apuntes Pensamiento Computacional 10-04
 
 ## Variables integradas en P5.Js
@@ -69,3 +68,6 @@ map(valor,min_original,max_original,min_nuevo,max_nuevo)
 -> valor: variable que quieres mapear (por ejemplo, mouseX).
 -> min_original y max_original: rango que se encuentra en ese valor actualmente
 -> min_nuevo y max_nuevo: rango de lo que quieras transformar
+
+
+
